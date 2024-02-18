@@ -1,1 +1,1 @@
-# Azure-ML-sample-translate-text
+This folder contains Python code
